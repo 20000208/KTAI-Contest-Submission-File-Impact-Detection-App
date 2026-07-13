@@ -1,0 +1,8 @@
+{
+  "name": "AI충격 감지 경보 앱",
+  "description": "AI-based Fall Detection and Emergency Rescue Request Application.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
